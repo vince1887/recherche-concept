@@ -1,6 +1,6 @@
 # Micro contact (piezo)
 
-C'est simplement un type de micro qui capte les vibrations matériels (contact physique), contrairement à un micro "conventionel" qui capte la variation de la pression de l'air.
+C'est simplement un type de micro qui capte les vibrations matériels (contact physique), contrairement à un micro "conventionel" qui capte les variations de la pression de l'air.
 
 L'appélation plus technique microphone piezoélectrique provient du fait que la membrane subi une déformation méchanique pour créer le courant électrique. (piezoélectricité)
 
