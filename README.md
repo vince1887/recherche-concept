@@ -10,12 +10,9 @@ L'appélation plus technique microphone piezoélectrique provient du fait que la
 - moin couteux qu'un microphone de studio
 - Plus petit, donc facile à intègrer
 - Il n'ont pas de direction
+  
 ### Feedback
 Dans le contexte d'un instalation interactive qui produit du son et qui utilise un microphone, l'utilisation de microphone plus "conventionel" pourrait entrainer du feedback. Par contre, le micro contact ne devrait pas.
  
 ## Example 
-
-
-
-# Camera thermique
-* thermal camera sensor: pick up the heat from people interacting and reflect in projection
+[![Thumbnail video noise box](https://img.youtube.com/vi/AN38Sbrbiz/0.jpg)](https://www.youtube.com/watch?v=AN38Sbrbiz)
