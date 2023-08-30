@@ -1,6 +1,6 @@
 # Micro contact (piezo)
-* piezo microphone: create a noise box to let user experimente and play with sound
-## titre 2
+## C'est quoi ça?!
+
 
 
 # Camera thermique
