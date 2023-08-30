@@ -3,5 +3,5 @@
 ## titre 2
 
 
-# titre 2.2
+# Camera thermique
 * thermal camera sensor: pick up the heat from people interacting and reflect in projection
