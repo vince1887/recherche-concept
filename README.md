@@ -1,4 +1,4 @@
-# titre 1
+# Micro contact (piezo)
 * piezo microphone: create a noise box to let user experimente and play with sound
 ## titre 2
 
