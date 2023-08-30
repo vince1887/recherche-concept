@@ -15,4 +15,4 @@ L'appélation plus technique microphone piezoélectrique provient du fait que la
 Dans le contexte d'un instalation interactive qui produit du son et qui utilise un microphone, l'utilisation de microphone plus "conventionel" pourrait entrainer du feedback. Par contre, le micro contact ne devrait pas.
  
 ## Example 
-[![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/0.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
+[![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/2.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
