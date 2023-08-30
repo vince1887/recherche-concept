@@ -1,5 +1,6 @@
 # Micro contact (piezo)
 C'EST QUOI ÇA!?
+
  C'est simplement un type de micro qui capte les vibrations matériels.
   
 
