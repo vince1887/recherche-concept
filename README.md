@@ -1,7 +1,6 @@
 # Micro contact (piezo)
-C'EST QUOI ÇA!?
 
- C'est simplement un type de micro qui capte les vibrations matériels.
+ C'est simplement un type de micro qui capte les vibrations matériels, contrairement à un micro "conventionelle" qui capte la variation de la pression de l'air.
 
 (difference avec un micro normal)
 (résolution du probleme de feedback avec micro normal dans une instalation)
