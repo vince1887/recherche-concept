@@ -6,7 +6,7 @@ L'appélation plus technique microphone piezoélectrique provient du fait que la
 
 ![image reference piezo microphone](/images/piezo_example.jpg)
 
-## Différence avec un Micro ""conventionel"
+## Différence avec un Micro "conventionel"
 - moin couteux qu'un microphone de studio
 - Plus petit, donc facile à intègrer
 - Il n'ont pas de direction
