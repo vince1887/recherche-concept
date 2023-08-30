@@ -8,12 +8,13 @@ L'appélation plus technique microphone piezoélectrique provient du fait que la
 
 ## Différence avec un Micro ""conventionel"
 - Beaucoup moin couteux qu'un microphone de studio
-- 
+- Plus petit, donc facile à intègrer
+- Il n'ont pas de direction
 ### Feedback
-
+Dans le contexte d'un instalation interactive qui produit du son et qui utilise un microphone, l'utilisation de microphone plus "conventionel" pourrait entrainer du feedback. Par contre, le micro contact ne devrait pas.
+ 
 ## Example 
-(résolution du probleme de feedback avec micro normal dans une instalation)
-(example de noise box)
+
 
 
 # Camera thermique
