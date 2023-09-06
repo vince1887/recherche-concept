@@ -18,7 +18,9 @@ Dans le contexte d'un instalation interactive qui produit du son et qui utilise 
 [![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/0.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
 
 # Laser
-
+-explication rapide d'un laser (de l'interieur)
+-
+protocole de controle  des lasers ilda,dmx ou fb4 en general
 laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
 laser interactif https://www.youtube.com/watch?v=l2j3lmJM_zw
 laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
