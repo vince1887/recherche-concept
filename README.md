@@ -20,7 +20,7 @@ Dans le contexte d'un instalation interactive qui produit du son et qui utilise 
 # Laser
 -explication rapide d'un laser (de l'interieur)
 ![image interieur laser](/images/laser_interieur.JPG)
-![image daplacement des lasers](/images/laser_deplacement.JPG)
+![image daplacement des lasers/images/laser_deplacement.JPG)
 protocole de controle  des lasers ilda,dmx ou fb4 en general
 laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
 laser interactif https://www.youtube.com/watch?v=l2j3lmJM_zw
