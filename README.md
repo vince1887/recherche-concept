@@ -18,6 +18,7 @@ Dans le contexte d'un instalation interactive qui produit du son et qui utilise 
 [![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/0.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
 
 # laser
+
 ![image du boitier de laser](/images/laser_boitier.JPG)
 
 ![image interieur laser](/images/laser_interieur.JPG)
@@ -29,7 +30,7 @@ laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
 laser interactif https://www.youtube.com/watch?v=l2j3lmJM_zw
 laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
 ## Osciloscope Music
- L'osciloscope music est une musique qui génère son propre visuel. Le visuel se génère en séparant le canal de gauche et de droite pour les asigner à des valeurs en X et Y. Le but est donc de créer quelque chose de plaisant à regarder et écouter.
+ L'osciloscope music est une musique qui génère son propre visuel. Le visuel se génère en séparant le canal de gauche et de droite pour les asigner à des valeurs en X et Y. Le but est donc de créer quelque chose de plaisant à regarder et écouter. Donc le "visuel" est eimpreigner en qulque sorte dans le fichier audio.
  
  Pour créer ce genre d'oeuvre on peut utiliser des fonctions mathématique pour créé la forme d'onde sonore et ensuite la dessiner sur l'osciloscope. La deuxième méthode est de créer des formes/models 3D et les convertire en onde sonore avec le logiciel OsciStudio.
  
