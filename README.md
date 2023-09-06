@@ -30,13 +30,19 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 ![image interieur laser](/images/laser_interieur.JPG)
 
 ![image daplacement des lasers](/images/laser_deplacement.JPG)
+
 ### Contrôle des lasers (protocol)
 - ilda (analogue)
 - dmx (numérique)
 - fb4 (numérique + standalone)
+
+## Example dans le contexte d'un concert
+laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
+
+## Example dans le contexte d'une instalation
 laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
 laser interactif https://www.youtube.com/watch?v=l2j3lmJM_zw
-laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
+
 ## Osciloscope Music
  L'osciloscope music est une musique qui génère son propre visuel. Le visuel se génère en séparant le canal de gauche et de droite pour les asigner à des valeurs en X et Y. Le but est donc de créer quelque chose de plaisant à regarder et écouter. Donc le "visuel" est eimpreigner en qulque sorte dans le fichier audio.
  
