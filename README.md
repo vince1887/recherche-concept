@@ -60,7 +60,4 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
   https://oscilloscopemusic.com/software/oscistudio/
 
 ### example d'osciloscope music avec des fonctions mathématique
-https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s (3min)
-
-### example avec de la 3D
-(2min;09 +  6MIN + 15;05)https://www.youtube.com/watch?time_continue=130&v=4gibcRfp4zA&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo
+[![Thumbnail video osciloscope musique](https://img.youtube.com/vi/Nt1PXQ2ah3A&t/0.jpg)](https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s)
