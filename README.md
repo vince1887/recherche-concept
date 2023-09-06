@@ -7,9 +7,9 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 - Instalations
 
 ![image du boitier de laser](/images/laser_boitier.JPG)
-### module d'emission de lasers
+### Module d'emission de lasers
 ![image interieur laser](/images/laser_interieur.JPG)
-### module de déplacement des lasers
+### Module de déplacement des lasers
 ![image daplacement des lasers](/images/laser_deplacement.JPG)
 
 ### Contrôle des lasers (protocol)
@@ -17,10 +17,10 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 - dmx (numérique)
 - fb4 (numérique + standalone)
 
-## Example dans le contexte d'un concert
+## Exemple dans le contexte d'un concert
 [![Thumbnail video concert laser](https://img.youtube.com/vi/QtXx3Qubmys/0.jpg)](https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s)
 
-## Example dans le contexte d'une instalation
+## Exemple dans le contexte d'une instalation
 [![Thumbnail video laser intearctif](https://img.youtube.com/vi/tRIWF3Hhrew/0.jpg)](https://www.youtube.com/watch?v=tRIWF3Hhrew)
 [![Thumbnail video laser intearctif](https://img.youtube.com/vi/l2j3lmJM_zw/0.jpg)](https://www.youtube.com/watch?v=l2j3lmJM_zw)
 
@@ -38,7 +38,7 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 ## Logiciel utilisé
   https://oscilloscopemusic.com/software/oscistudio/
 
-### example d'osciloscope music avec des fonctions mathématique
+### exemple d'osciloscope music avec des fonctions mathématique
 [![Thumbnail video osciloscope musique](https://img.youtube.com/vi/Nt1PXQ2ah3A&t/0.jpg)](https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s)
 
 
