@@ -17,8 +17,8 @@ Dans le contexte d'un instalation interactive qui produit du son et qui utilise 
 ## Example 
 [![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/0.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
 
-# Laser
--explication rapide d'un laser (de l'interieur)
+# laser
+
 ![image interieur laser](/images/laser_interieur.JPG)
 ![image daplacement des lasers/images/laser_deplacement.JPG)
 protocole de controle  des lasers ilda,dmx ou fb4 en general
