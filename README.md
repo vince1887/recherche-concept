@@ -28,9 +28,9 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 - Instalations
 
 ![image du boitier de laser](/images/laser_boitier.JPG)
-
+### module d'emission de lasers
 ![image interieur laser](/images/laser_interieur.JPG)
-
+### module de déplacement des lasers
 ![image daplacement des lasers](/images/laser_deplacement.JPG)
 
 ### Contrôle des lasers (protocol)
