@@ -37,7 +37,8 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 - fb4 (numérique + standalone)
 
 ## Example dans le contexte d'un concert
-laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
+[![Thumbnail video concert laser](https://img.youtube.com/vi/QtXx3Qubmys&t=1833s/0.jpg)](https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s)
+laser show 
 
 ## Example dans le contexte d'une instalation
 laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
