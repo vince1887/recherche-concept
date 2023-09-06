@@ -17,7 +17,7 @@ Dans le contexte d'un instalation interactive qui produit du son et qui utilise 
 ## Example 
 [![Thumbnail video noise box](https://img.youtube.com/vi/AN38SbrbizQ/0.jpg)](https://www.youtube.com/watch?v=AN38SbrbizQ)
 
-# laser
+# Laser
 Les projecteurs de laser servent a projeter des faisceaux lasers colorés à travers un système optique complexe, contrôlés par des logiciels. Les laser émettent de la lumière qui est ensuite dirigées a l'aide de mirroirs et de lentilles.
 
 ### Contexte d'utilisation
