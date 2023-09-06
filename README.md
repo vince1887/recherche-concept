@@ -52,6 +52,7 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
  Pour créer ce genre d'oeuvre on peut utiliser des fonctions mathématique pour créé la forme d'onde sonore et ensuite la dessiner sur l'osciloscope. La deuxième méthode est de créer des formes/models 3D et les convertire en onde sonore avec le logiciel OsciStudio.
 
 (2:09 +  6:00 + 15:00)
+
 [![Thumbnail video osciloscope musique](https://img.youtube.com/vi/4gibcRfp4zA&t/0.jpg)](https://www.youtube.com/watch?v=4gibcRfp4zA&t)
  
 
