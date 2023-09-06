@@ -50,8 +50,10 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
  L'osciloscope music est une musique qui génère son propre visuel. Le visuel se génère en séparant le canal de gauche et de droite pour les asigner à des valeurs en X et Y. Le but est donc de créer quelque chose de plaisant à regarder et écouter. Donc le "visuel" est eimpreigner en qulque sorte dans le fichier audio.
  
  Pour créer ce genre d'oeuvre on peut utiliser des fonctions mathématique pour créé la forme d'onde sonore et ensuite la dessiner sur l'osciloscope. La deuxième méthode est de créer des formes/models 3D et les convertire en onde sonore avec le logiciel OsciStudio.
+
+(2:09 +  6:00 + 15:00)
+[![Thumbnail video osciloscope musique](https://img.youtube.com/vi/4gibcRfp4zA&t/0.jpg)](https://www.youtube.com/watch?v=4gibcRfp4zA&t)
  
- (2min;09 +  6MIN + 15;05)https://www.youtube.com/watch?time_continue=130&v=4gibcRfp4zA&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo
 
 LOGICIEL CRÉATION OSCILOSCOPE MUSIQUE: https://oscilloscopemusic.com/software/oscistudio/
 
