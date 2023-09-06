@@ -27,6 +27,11 @@ laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
  
  Pour créer ce genre d'oeuvre on peut utiliser des fonctions mathématique pour créé la forme d'onde sonore et ensuite la dessiner sur l'osciloscope. La deuxième méthode est de créer des formes/models 3D et les convertire en onde sonore avec le logiciel OsciStudio.
  
-### example d'osciloscope music
-(2min;09  + 15;05)https://www.youtube.com/watch?time_continue=130&v=4gibcRfp4zA&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo
-https://oscilloscopemusic.com/software/oscistudio/
+ (2min;09 +  6MIN + 15;05)https://www.youtube.com/watch?time_continue=130&v=4gibcRfp4zA&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo
+
+LOGICIEL CRÉATION OSCILOSCOPE MUSIQUE: https://oscilloscopemusic.com/software/oscistudio/
+
+### example d'osciloscope music avec des fonctions mathématique
+https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s (3min)
+
+### example avec de la 3D
