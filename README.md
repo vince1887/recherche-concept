@@ -30,8 +30,10 @@ Les projecteurs de laser servent a projeter des faisceaux lasers colorés à tra
 ![image interieur laser](/images/laser_interieur.JPG)
 
 ![image daplacement des lasers](/images/laser_deplacement.JPG)
-
-protocole de controle  des lasers ilda,dmx ou fb4 en general
+### Contrôle des lasers (protocol)
+- ilda (analogue)
+- dmx (numérique)
+- fb4 (numérique + standalone)
 laser interactif https://www.youtube.com/watch?v=tRIWF3Hhrew
 laser interactif https://www.youtube.com/watch?v=l2j3lmJM_zw
 laser show https://www.youtube.com/watch?v=QtXx3Qubmys&t=1833s
