@@ -20,6 +20,7 @@ MESHROOM : https://alicevision.org/#meshroom
 
 
 ## Utilisation artistique
+- shader procédural dans Unity
 -  Mapping 
 -  Vr
 
