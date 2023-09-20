@@ -1,3 +1,9 @@
+# Point Cloud
+Les "point clouds" en 3D (nuages de points en français) sont des ensembles de points tridimensionnels qui représentent la géométrie d'un objet ou d'une scène en trois dimensions. Chaque point dans un nuage de points est associé à une coordonnée spatiale (x, y, z) qui indique sa position dans l'espace tridimensionnel. Ces nuages de points sont souvent générés à l'aide de capteurs laser, de caméras 3D ou d'autres technologies de numérisation 3D.
+### utilisation artistique
+-  Mapping 
+-  Vr
+
 # Laser
 Les projecteurs de laser servent a projeter des faisceaux lasers colorés à travers un système optique complexe, contrôlés par des logiciels. Les laser émettent de la lumière qui est ensuite dirigées a l'aide de mirroirs et de lentilles.
 
