@@ -4,7 +4,7 @@ Les "point clouds" en 3D (nuages de points en français) sont des ensembles de p
 ## Scan Laser
 Scanneur Laser spécialisé en captation laser. Permet de capter des environnement pour ensuite les manipuler dans des logiciel de 3D comme Unity.
 
-![image laser camera](/images/laser_camera.JPG)
+![image laser camera](/images/laser_camera.jpg)
  
 ## Photogramétrie
 Consiste à photographier un object dans tous ses angles ou filmer un environement pour ensuite exporter la vidéo en suite d'images.
