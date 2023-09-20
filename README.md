@@ -12,7 +12,7 @@ Scanneur Laser spécialisé en captation laser. Permet de capter des environneme
 Consiste à photographier un object dans tous ses angles ou filmer un environement pour ensuite exporter la vidéo en suite d'images.
   
 ### Workflow 3D
-Ensuite avec les photos, on doit importer dans un logiciel qui permet de convertir les images en point cloud
+Ensuite avec les photos, on doit importer dans un logiciel qui permet de convertir les images en point cloud (fichier ASCII lisible dans les logiciel de 3D)
 MESHROOM : https://alicevision.org/#meshroom
 - logiciel gratuit et open-sourced
   
