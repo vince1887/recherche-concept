@@ -20,7 +20,7 @@ MESHROOM : https://alicevision.org/#meshroom
 
 
 ## Utilisation artistique
-- shader procédural dans Unity
+- shader procédural dans Unity pour manipuler le point cloud
 -  Mapping 
 -  Vr
 
