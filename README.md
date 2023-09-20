@@ -11,7 +11,7 @@ Consiste à photographier un object dans tous ses angles ou filmer un environeme
 Ensuite avec les photos, on doit importer dans un logiciel qui permet de convertir les images en point cloud
 MESHROOM : https://alicevision.org/#meshroom
 
-[![Thumbnail video meshroom explication](https://img.youtube.com/vi/O6tYKQEBA&t/0.jpg)](https://www.youtube.com/watch?v=v_O6tYKQEBA&t=4s)
+[![Thumbnail video meshroom explication](https://img.youtube.com/vi/v_O6tYKQEBA/0.jpg)](https://www.youtube.com/watch?v=v_O6tYKQEBA&t)
 
 - logiciel gratui et open-sourced
 ## Utilisation artistique
