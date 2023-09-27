@@ -1,9 +1,12 @@
-# Instalation immersive et interactive
+# Concept d'instalation interactive
 L'installation regroupera plusieurs technologies tels que:
 - Le mapping
 - les points cloud
 - Les lasers
 - Les micros contact (piezo)
+
+## Les liaisons entre les différente technologies
+
 
 
 # Point Cloud
