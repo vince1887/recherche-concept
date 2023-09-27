@@ -11,6 +11,7 @@ L'installation regroupera plusieurs technologies tels que:
 - Les objets interactifs de l'instalation seront des boites à son (noise box) et de petit controleurs tels que des joysticks par exemple.
    * Les/la boite(s) à son vont permettre l'interaction avec les projections.
    * Les controleurs vont permettre de jouer avec les sont qui sont relié aux lasers.
+- L'interacteur sera donc invité à venir interagir avec les objects dans l'espace et lui permetre d'avoir un impact imédiat sur son environement. Ou de simplement contempler son environement et se laisser transporter.
  
  
 
