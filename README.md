@@ -5,9 +5,10 @@ L'installation regroupera plusieurs technologies tels que:
 - Les lasers
 - Les micros contact (piezo)
 
-## Les liaisons entre les différente technologies
-
-
+## Les liaisons entre les différentes technologies
+- L'instalation sera de type génératif donc elle est toujours en marche et peut évoluer sans intéracteur.
+- 
+- Les objets interactifs de l'instalation seront des boites à son (noise box) et de petit controleurs tels que des joysticks par exemple.
 
 # Point Cloud
 Les "point clouds" en 3D (nuages de points en français) sont des ensembles de points 3D qui représentent la géométrie d'un objet ou d'une scène en 3D. Chaque point dans un nuage de points est associé à une coordonnée spatiale (x, y, z) qui indique sa position dans l'espace 3D. Ces nuages de points sont souvent générés à l'aide de capteurs laser, de caméras 3D ou d'autres technologies de numérisation 3D.
