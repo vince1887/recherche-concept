@@ -1,7 +1,7 @@
 # Concept d'instalation interactive
 L'installation regroupera plusieurs technologies tels que:
 - Le mapping
-- les points cloud
+- Les points cloud
 - Les lasers
 - Les micros contact (piezo)
 
